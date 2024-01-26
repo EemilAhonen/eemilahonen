@@ -2,9 +2,7 @@
 
 
 <p align="center">
-  I am a software engineer with a master's degree in computer science specializing in AI.
-  <br>
-  I'm currently working on open-source C++ audio plugins.
+  I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
   <br>
   <b>Looking for a software engineer? Let's connect and talk!</b>
@@ -29,6 +27,12 @@
 </a>
 
 
+<h2 align="center">Quick stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats-eemilahonen.vercel.app/api?username=eemilahonen&show_icons=true&theme=dark&hide_border=true&title_color=44a0f9&icon_color=44a0f9&ring_color=44a0f9&text_color=ffffff&hide=contribs,prs&disable_animations=true"" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=true&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=true" width="400" />
+</p>
 
 
 <h2 align="center">Stack</h2>
@@ -72,13 +76,4 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-
-<h2 align="center">Quick stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-eemilahonen.vercel.app/api?username=eemilahonen&show_icons=true&theme=dark&hide_border=true&title_color=44a0f9&icon_color=44a0f9&ring_color=44a0f9&text_color=ffffff&hide=contribs,prs&disable_animations=true"" width="400" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=true&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=true" width="400" />
 </p>
