@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://eemilahonen.github.io/">Eemil</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://eemilahonen.github.io/">Eemil</a> 👋</h1>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 
-<h2 align="center">Links</h2>
+<h2 align="center">Links 🔗</h2>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCfgV8Gpt4ZkbvJFBpxpi7JA">
@@ -19,7 +19,7 @@
 </p>
 
 
-<h2 align="center">Currently working on</h2>
+<h2 align="center">Currently working on 🧑‍💻</h2>
 
 <p align="center">
   <a href="https://github.com/eemilahonen/deep-fryer">
@@ -28,14 +28,14 @@
 </p>
 
 
-<h2 align="center">Quick stats</h2>
+<h2 align="center">Quick stats 📈</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=false&border=44a0f9&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=false" width="400" />
 </p>
 
 
-<h2 align="center">Stack</h2>
+<h2 align="center">Stack 🔧</h2>
 
 <p align="center">
   <!-- DSP section -->
@@ -64,7 +64,7 @@
 </p>
 
 
-<h2 align="center">Languages</h2>
+<h2 align="center">Languages 💻</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
