@@ -23,15 +23,15 @@
 
 <p align="center">
   <a href="https://github.com/eemilahonen/deep-fryer">
-    <img width="400" align="center" src="https://github-readme-stats-eemilahonen.vercel.app/api/pin/?username=eemilahonen&repo=deep-fryer&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=true" alt="Deep Fryer" />
-</a>
+    <img width="400" align="center" src="https://github-readme-stats-eemilahonen.vercel.app/api/pin/?username=eemilahonen&repo=deep-fryer&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=false" alt="Deep Fryer" />
+  </a>
+</p>
 
 
 <h2 align="center">Quick stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eemilahonen.vercel.app/api?username=eemilahonen&show_icons=true&theme=dark&hide_border=true&title_color=44a0f9&icon_color=44a0f9&ring_color=44a0f9&text_color=ffffff&hide=contribs,prs&disable_animations=true"" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=true&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=false&border=44a0f9&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=false" width="400" />
 </p>
 
 
