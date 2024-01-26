@@ -13,9 +13,9 @@
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCfgV8Gpt4ZkbvJFBpxpi7JA">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCfgV8Gpt4ZkbvJFBpxpi7JA?label=subscribe&logo=youtube&logoColor=44a0f9&labelColor=151515&color=44a0f9&style=for-the-badge" width="175" height="34" alt="Subscribe" /></a>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCfgV8Gpt4ZkbvJFBpxpi7JA?label=subscribe&logo=youtube&logoColor=44a0f9&labelColor=151515&color=44a0f9&style=for-the-badge" alt="Subscribe" /></a>
   <a href="https://eemilahonen.github.io/">
-    <img src="https://img.shields.io/website?label=eemilahonen.github.io&style=for-the-badge&url=https%3A%2F%2Feemilahonen.github.io&labelColor=151515&color=44a0f9" height="34" width="220" alt="Website" /></a>
+    <img src="https://img.shields.io/website?label=eemilahonen.github.io&style=for-the-badge&url=https%3A%2F%2Feemilahonen.github.io&labelColor=151515&color=44a0f9" alt="Website" /></a>
 </p>
 
 
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <!-- Android and game development section -->
   <br>
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" alt="Android" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <!-- Media section -->
   <br>
