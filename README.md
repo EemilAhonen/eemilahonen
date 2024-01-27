@@ -4,7 +4,6 @@
 <p align="center">
   I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
-  <br>
   <b>Looking for a software engineer? Let's connect and talk!</b>
 </p>
 
@@ -12,10 +11,12 @@
 <h2 align="center">Links 🔗</h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCfgV8Gpt4ZkbvJFBpxpi7JA">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCfgV8Gpt4ZkbvJFBpxpi7JA?label=subscribe&logo=youtube&logoColor=44a0f9&labelColor=151515&color=44a0f9&style=for-the-badge" alt="Subscribe" /></a>
+  <a href="https://www.youtube.com/@KeisariEurobeat">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://ko-fi.com/keisari/">
+    <img src="https://img.shields.io/badge/Support%20me-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Website" /></a>
   <a href="https://eemilahonen.github.io/">
-    <img src="https://img.shields.io/website?label=eemilahonen.github.io&style=for-the-badge&url=https%3A%2F%2Feemilahonen.github.io&labelColor=151515&color=44a0f9" alt="Website" /></a>
+    <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=kotlin&logoColor=white" alt="Website" /></a>
 </p>
 
 
@@ -23,7 +24,7 @@
 
 <p align="center">
   <a href="https://github.com/eemilahonen/deep-fryer">
-    <img width="400" align="center" src="https://github-readme-stats-eemilahonen.vercel.app/api/pin/?username=eemilahonen&repo=deep-fryer&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=false" alt="Deep Fryer" />
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eemilahonen&repo=deep-fryer&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=false" alt="Deep Fryer" />
   </a>
 </p>
 
