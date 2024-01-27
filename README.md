@@ -4,7 +4,7 @@
 <p align="center">
   I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
-  <b>Looking for a software engineer? Let's connect and talk!</b>
+  <b>Looking for a software engineer? Let's <a href="mailto:keisarimail@gmail.com">connect</a> and talk!</b>
 </p>
 
 
