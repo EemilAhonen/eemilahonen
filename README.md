@@ -60,8 +60,8 @@
   <!-- Media section -->
   <br>
   <img src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="Affinity Photo" />
-  <img src="https://img.shields.io/badge/FL%20Studio-FF6A2D.svg?style=for-the-badge&logoColor=white" alt="FL Studio" />
-  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-%23000000.svg?style=for-the-badge&logoColor=white" alt="Final Cut Pro" />
+  <img src="https://img.shields.io/badge/FL%20Studio-FF6A2D.svg?style=for-the-badge&logo=apple-music&logoColor=white" alt="FL Studio" />
+  <img src="https://img.shields.io/badge/Final%20Cut%20Pro-%23000000.svg?style=for-the-badge&logo=airplay-video&logoColor=white" alt="Final Cut Pro" />
 </p>
 
 
