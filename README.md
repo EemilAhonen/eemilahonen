@@ -32,7 +32,7 @@
 <h2 align="center">Quick stats 📈</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=eemilahonen&theme=dark&hide_border=false&border=44a0f9&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&disable_animations=false" width="400" />
+  <img src="https://streak-stats.demolab.com?user=eemilahonen&theme=dark&hide_border=false&border=44a0f9&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&starting_year=2018&disable_animations=false" width="400" />
 </p>
 
 
