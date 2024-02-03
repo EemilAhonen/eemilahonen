@@ -1,12 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://eemilahonen.github.io/">Eemil</a> 👋</h1>
 
-
 <p align="center">
   I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
   <b>Looking for a software engineer? Let's <a href="mailto:keisarimail@gmail.com">connect</a> and talk!</b>
 </p>
-
 
 <h2 align="center">Links 🔗</h2>
 
@@ -19,15 +17,13 @@
     <img src="https://img.shields.io/badge/Website-121013?style=for-the-badge&logo=kotlin&logoColor=white" alt="Website" /></a>
 </p>
 
-
 <h2 align="center">Currently working on 🧑‍💻</h2>
 
 <p align="center">
-  <a href="https://github.com/eemilahonen/deep-fryer">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eemilahonen&repo=deep-fryer&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=false" alt="Deep Fryer" />
+  <a href="https://github.com/eemilahonen/leikkaus">
+    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eemilahonen&repo=leikkaus&theme=dark&border_color=44a0f9&title_color=ffffff&text_color=ffffff&icon_color=44a0f9&disable_animations=false" alt="Leikkaus" />
   </a>
 </p>
-
 
 <h2 align="center">Quick stats 📈</h2>
 
@@ -35,8 +31,7 @@
   <img src="https://streak-stats.demolab.com?user=eemilahonen&theme=dark&hide_border=false&border=44a0f9&ring=44a0f9&fire=44a0f9&currStreakLabel=44a0f9&starting_year=2018&disable_animations=false" width="400" />
 </p>
 
-
-<h2 align="center">Stack 🔧</h2>
+<h2 align="center">Current stack 🔧</h2>
 
 <p align="center">
   <!-- DSP section -->
@@ -48,22 +43,12 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="SciPy" />
-  <!-- Web section -->
-  <br>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-  <!-- Android and game development section -->
-  <br>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <!-- Media section -->
   <br>
   <img src="https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white" alt="Affinity Photo" />
   <img src="https://img.shields.io/badge/FL%20Studio-FF6A2D.svg?style=for-the-badge&logo=apple-music&logoColor=white" alt="FL Studio" />
   <img src="https://img.shields.io/badge/Final%20Cut%20Pro-%23000000.svg?style=for-the-badge&logo=airplay-video&logoColor=white" alt="Final Cut Pro" />
 </p>
-
 
 <h2 align="center">Languages 💻</h2>
 
