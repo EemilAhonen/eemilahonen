@@ -34,9 +34,9 @@
 <h2 align="center">Current stack 🔧</h2>
 
 <p align="center">
-  <!-- DSP section -->
+  <!-- Current section -->
   <img src="https://img.shields.io/badge/JUCE-8DC63F.svg?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE" />
-  <img src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <!-- AI section -->
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
