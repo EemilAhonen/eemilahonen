@@ -1,9 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="https://eemilahonen.github.io/">Eemil</a> 👋</h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/eemilahonen/">Eemil</a> 👋</h1>
 
 <p align="center">
   I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
-  <b>Looking for a software engineer? Let's <a href="mailto:keisarimail@gmail.com">connect</a> and talk!</b>
+  <b>Looking for a software engineer? Let's <a href="https://www.linkedin.com/in/eemilahonen/">connect</a> and talk!</b>
 </p>
 
 <h2 align="center">Links 🔗</h2>
@@ -36,7 +36,11 @@
 <p align="center">
   <!-- Current section -->
   <img src="https://img.shields.io/badge/JUCE-8DC63F.svg?style=for-the-badge&logo=juce&logoColor=white" alt="JUCE" />
-  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<!-- Full Stack -->
+ <br>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js" />
   <!-- AI section -->
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
