@@ -1,9 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/eemilahonen/">Eemil</a> 👋</h1>
+<h1 align="center">Hi there, I'm Keisari 👋</h1>
 
 <p align="center">
   I am a software engineer with a master's degree in computer science specializing in AI. I'm currently working on open-source C++ audio plugins.
   <br>
-  <b>Looking for a software engineer? Let's <a href="https://www.linkedin.com/in/eemilahonen/">connect</a> and talk!</b>
 </p>
 
 <h2 align="center">Links 🔗</h2>
